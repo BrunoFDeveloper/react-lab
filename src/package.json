@@ -1,0 +1,12 @@
+{
+  "name": "semantic-ui-react",
+  "version": "1.0.0",
+  "description": "A template for Semantic UI React issues",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "semantic-ui-react": "0.75.1",
+    "react-dom": "16.5.2",
+    "react": "16.5.2"
+  }
+}

@@ -1,0 +1,14 @@
+.Field {
+  clear: both;
+  margin: 0 0 1em;
+}
+
+.Label {
+  margin-right: 10px;
+  display: inline-block;
+
+  &.Block {
+    display: block;
+    margin-bottom: 5px;
+  }
+}
